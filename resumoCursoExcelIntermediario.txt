@@ -1,0 +1,52 @@
+Curso Excel Intermediário - Office 2019 (Alura)
+
+Tópico 01:CONCEITOS DE TABELA DINÂMICA
+
+Como inserir uma tabela dinâmica;
+Como organizar os campos no seletor de campos;
+Atualização da origem da tabela.
+
+Tópico 02:MELHORANDO A EXIBIÇÃO DOS DADOS
+
+Segmentação de Dados;
+Linha do Tempo;
+Alterar a localização da tabela dinâmica;
+Integrando duas segmentações de dados;
+Cuidados na mudança de localização;
+Design de tabela;
+Design de linha do tempo;
+Configuração de campos.
+
+Tópico 03:CONCEITOS DE DASHBOARD
+
+Utilizando gráficos dinâmicos;
+Estruturando uma planilha como "Dashboard";
+Lógica de apresentação dos dados;
+Buscando dados para o "Dashboard";
+Implementando a lógica de apresentação.
+
+Tópico 04:ANÁLISE DAS INFORMAÇÕES
+
+Pontos importantes na criação de "Dashboards";
+Dados brutos versus dados dinâmicos;
+Uso avançado de linha do tempo;
+Formatação condicional;
+Precedência na formatação condicional;
+Colocando regras no "Dashboard";
+Revisões:
+Linha do tempo;
+Função Cont.SE;
+Uso de coringa em funções;
+Uso de nomes em funções;
+
+Tópico 05:FINALIZANDO NOSSO DASHBOARD
+
+Aumentando a área do "Dashboard"
+Criando vários painéis;
+Estrutura de tópicos;
+Incluindo alertas no "Dashboard";
+Revisão:
+Função SE();
+Função MÉDIA();
+Uso de nomes.
+
